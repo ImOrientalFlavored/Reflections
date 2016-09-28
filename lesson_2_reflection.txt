@@ -31,3 +31,8 @@ logical change?
 	control to which file you wish to commit and also have options to
 	show status and compare the staging area with the previous recent
 	commit.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	When you'd like to add features to the project but may change the overall project you may want to make a branch
+	which keeps changes away from the master branch and gives you freedom to make experiment
