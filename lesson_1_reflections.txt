@@ -1,0 +1,40 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+	It showed where in the code to versions of a file had differences
+	making it much more convenient to debug
+
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+	Its well organized and dated. Easy access and searching saves times and gives you more time to code.
+
+As a programmer, when would you want to have a version of your code saved?
+
+	Regular intervals, about half an hour.
+	When I've made significant and well tested changes.
+	When the session has had a long pause.
+	When the session has ended. 	
+
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+	Manual saving gives you the freedom when you want to save. Unlike goolgle docs which may save over an interval of time during a random period of the work flow, you can choose when a save seems most logical. Although manually saving does carry the risk of human error.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+	One reason may come down to Git and Google Docs serve different purposes, where Git is intended to be used for programming projects and Google docs is a general use case.
+
+	Possibly Google docs prefers using less storage or a difference in philosphy.
+
+How can you use the commands git log and git diff to view the history of files?
+	
+	Git log allows you to see the history of commits.
+	Git diff of the former followed by the later shows the changes between the commits
+
+	A shortcut to quickly see the number of changes is using Git log with --Stat option
+
+How might using version control make you more confident to make changes that could break something?
+
+	Git allows you to revert to an older commit that may be more stable.
+
+	Git also allows you to branch your commits giving you more flexibility
