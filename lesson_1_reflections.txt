@@ -38,3 +38,6 @@ How might using version control make you more confident to make changes that cou
 	Git allows you to revert to an older commit that may be more stable.
 
 	Git also allows you to branch your commits giving you more flexibility
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
