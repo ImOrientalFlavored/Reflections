@@ -44,3 +44,8 @@ How do the diagrams help you visualize the branch structure?
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 	Commits are joined together. Theyre interweaved and ordered chronologically opposed to them being seperated into to clumps of commits.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	Like in most situations between automatic vs manual you trade off control for convenience or vice-versa.
+	Having control has the added benefit of being able to handle conflicts.
